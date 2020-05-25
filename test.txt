@@ -1,1 +1,2 @@
 cbt2
+modified in master branch to test git merge from git bash
